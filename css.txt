@@ -1,0 +1,15 @@
+Css interviwe Questions
+
+1-What are the ways to inject CSS into an HTML document?
+2-What is the position property in CSS, and what is its default value?
+3-When should the sticky position be used in CSS?
+4-What is the difference between em, rem, px, vh, vw, and percentage in CSS?
+5-What is the difference between inline, block, and inline-block elements in CSS?
+6-What are pseudo-elements in CSS, and how are they used?
+7-What is the difference between margin and padding in CSS?
+8-What is the box model in CSS, and how does it work?
+9-What is the z-index property in CSS, and how is it used?
+10-What are Flexbox and Grid in CSS, and how do they differ?
+11-What are the different ways to create a responsive layout in CSS?
+12-How can we implement SEO techniques in a website?
+13-What are SEO, viewport, and charset meta tags in HTML, and what are their purposes?

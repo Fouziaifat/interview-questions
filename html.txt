@@ -1,0 +1,22 @@
+HTML interviwe Questions
+1- What is the difference between <div> and <span> elements, and how do inline and block elements differ?
+2-What are semantic tags in HTML?
+3-What is the purpose of the alt attribute in <img> tags?
+4-What is the difference between id and class in HTML?
+5-What is specificity in CSS, and why is it important?
+6-What are the differences between HTML4 and HTML5 features?
+7-Why are semantic elements used in HTML?
+8-What is accessibility in web development?
+9-How do you create a <form> tag in HTML, and what are its attributes?
+10-How can you create lists in HTML using <ol>, <ul>, and <dl> tags?
+11-What is ARIA (Accessible Rich Internet Applications) in HTML semantic tags?
+12-What are meta tags in HTML, and how are they used?
+13-What are data attributes in HTML, and how are they utilized?
+14-What are the <video> and <picture> tags in HTML, and how do they differ?
+
+
+
+
+
+
+
