@@ -13,9 +13,9 @@ Javacript interviwe Questions
 12 What is a higher-order function in JavaScript?                          
 13 What is a pure function in JavaScript?                          
 14 What is an Immediately Invoked Function Expression (IIFE) in JavaScript, and how is it used?   
-
-// 13-01-2025
-1- What is hoisting in JavaScript?
-2- What is the this keyword in JavaScript, and how does it work?
-3- What is event bubbling in JavaScript?
-4-What is asynchronous programming in JavaScript, and how does it work?
+15- What is hoisting in JavaScript?
+16- What is the this keyword in JavaScript, and how does it work?
+17- What is event bubbling in JavaScript?
+18-What is asynchronous programming in JavaScript, and how does it work?
+19-What is the difference between the async and defer attributes in the <script> tag?
+20-How does the <noscript> tag affect JavaScript execution?

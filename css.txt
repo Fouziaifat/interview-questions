@@ -13,3 +13,8 @@ Css interviwe Questions
 11-What are the different ways to create a responsive layout in CSS?
 12-How can we implement SEO techniques in a website?
 13-What are SEO, viewport, and charset meta tags in HTML, and what are their purposes?
+14-What is the difference between visibility: hidden; and display: none; in CSS?
+15-How does the position: sticky; property work in CSS?
+16-What is the isolate property in CSS, and how is it used?
+17-What are pseudo-classes and pseudo-elements in CSS, and how are they used?
+18-How can we centralize an element in CSS?
