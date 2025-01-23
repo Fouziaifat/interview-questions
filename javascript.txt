@@ -19,3 +19,15 @@ Javacript interviwe Questions
 18-What is asynchronous programming in JavaScript, and how does it work?
 19-What is the difference between the async and defer attributes in the <script> tag?
 20-How does the <noscript> tag affect JavaScript execution?
+
+// 23-01-2025
+21-What is a closure in JavaScript?
+22-What is the difference between the spread, rest, and predator operators in JavaScript?
+23-What are template literals in JavaScript?
+24-What is a ternary operator, and how is it used in JavaScript?
+25-What are call, apply, and bind methods in JavaScript, and how do they differ?
+26-What are Promises in JavaScript, and what are the different types of Promises?
+27-What does Object.freeze do in JavaScript? How is it different from Object.seal and Object.assign?
+28-What is the purpose of try, catch, and finally in JavaScript?
+29-What is the difference between forEach and map in JavaScript?
+30-What is the difference between synchronous and asynchronous operations in JavaScript?

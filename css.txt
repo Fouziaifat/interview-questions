@@ -18,3 +18,7 @@ Css interviwe Questions
 16-What is the isolate property in CSS, and how is it used?
 17-What are pseudo-classes and pseudo-elements in CSS, and how are they used?
 18-How can we centralize an element in CSS?
+
+// 23-01-2025
+19-How can you round elements in CSS?
+20-How can you create different shapes using CSS?
