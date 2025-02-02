@@ -22,3 +22,6 @@ Css interviwe Questions
 // 23-01-2025
 19-How can you round elements in CSS?
 20-How can you create different shapes using CSS?
+
+//02-02-2025
+diffrence between primitive and non-primitive data type ?
