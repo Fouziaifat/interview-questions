@@ -15,13 +15,12 @@ Css interviwe Questions
 13-What are SEO, viewport, and charset meta tags in HTML, and what are their purposes?
 14-What is the difference between visibility: hidden; and display: none; in CSS?
 15-How does the position: sticky; property work in CSS?
-16-What is the isolate property in CSS, and how is it used?
-17-What are pseudo-classes and pseudo-elements in CSS, and how are they used?
-18-How can we centralize an element in CSS?
+16-What are pseudo-classes and pseudo-elements in CSS, and how are they used?
+17-How can we centralize an element in CSS?
 
 // 23-01-2025
-19-How can you round elements in CSS?
-20-How can you create different shapes using CSS?
+18-How can you round elements in CSS?
+19-How can you create different shapes using CSS?
 
 //02-02-2025
 diffrence between primitive and non-primitive data type ?
