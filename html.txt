@@ -4,22 +4,20 @@ HTML interviwe Questions
 3-What is the purpose of the alt attribute in <img> tags?
 4-What is the difference between id and class in HTML?
 5-What is specificity in CSS, and why is it important?
-6-What are the differences between HTML4 and HTML5 features?
 7-Why are semantic elements used in HTML?
 8-What is accessibility in web development?
-9-How do you create a <form> tag in HTML, and what are its attributes?
-10-How can you create lists in HTML using <ol>, <ul>, and <dl> tags?
-11-What is ARIA (Accessible Rich Internet Applications) in HTML semantic tags?
-12-What are meta tags in HTML, and how are they used?
-13-What are data attributes in HTML, and how are they utilized?
-14-What are the <video> and <picture> tags in HTML, and how do they differ?
-15-What is the <!DOCTYPE> declaration in HTML, and why is it used?
-16-What is the <template> tag in HTML, and how is it used?
-17-How can we make an element draggable in HTML?
-18-What is the Shadow DOM in HTML, and how does it work?
-19-How can we implement lazy loading for images in HTML?
-20-What is the <noscript> tag, and how does it work?
-21-What does the contenteditable attribute do in HTML?
+9-How can you create lists in HTML using <ol>, <ul>, and <dl> tags?
+10-What is ARIA (Accessible Rich Internet Applications) in HTML semantic tags?
+11-What are meta tags in HTML, and how are they used?
+12-What are data attributes in HTML, and how are they utilized?
+13-What are the <video> and <picture> tags in HTML, and how do they differ?
+14-What is the <!DOCTYPE> declaration in HTML, and why is it used?
+15-What is the <template> tag in HTML, and how is it used?
+16-How can we make an element draggable in HTML?
+17-What is the Shadow DOM in HTML, and how does it work?
+18-How can we implement lazy loading for images in HTML?
+19-What is the <noscript> tag, and how does it work?
+20-What does the contenteditable attribute do in HTML?
 
 
 
